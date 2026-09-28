@@ -8,3 +8,5 @@ Documents the complete SOC Level 1 workflow from initial alert review through ne
 
 ![Image alt](https://github.com/Kevinolee1/SOC-L1-Investigation-Closed-Ticket/blob/4bacde2f9cd5b4676af740d9dc340a6d4377a937/Screenshot%202026-09-27%20224202.png)
 
+![Image alt](https://github.com/Kevinolee1/SOC-L1-Investigation-Closed-Ticket/blob/eda5bfea68662fa5403e89bab760ed4d8b0bf13c/Screenshot%202026-09-27%20224347.png)
+
